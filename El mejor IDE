@@ -1,0 +1,23 @@
+Udhay Prakash Pethakamsetty, Python Programmer
+Updated Oct 9, 2015 · Author has 161 answers and 433.5k answer views
+Originally Answered: What Python IDE would you recommend for a beginner?
+I already answered this question, many a times. 
+But, again...
+
+I won't use an IDE. I would prefer an editor...Sublime Text 2 Editor. 
+Not just me, but many professional prefer editors such as vim, sublime Text 2/3, Notepad++, ...to IDEs. 
+
+It's recommended for the beginners to work with IDEs, to go through all the features....But, in a long run, it would be better to prefer an Editor. 
+
+The reason is all the popular editors are providing the features provided with the IDEs, with add-ons. Also, Editors are light-weight compared to IDEs.
+
+If you are a beginner, i recommend you to work on IDEs. 
+In commercial versions, i recommend Komodo IDE and PyCharm IDE.
+In community (free) versions, i recommend Spyder IDE and PyCharm IDE.
+IDLE is basic IDE provided by python software foundation.
+
+In fact, Spyder IDE is google's Recommendation. It comes part of the python(x,y)  python distribution from Google.
+
+For further list:
+List of popular IDEs used for python programming
+Online IDEs/Interpreters for python programming
