@@ -1,0 +1,12 @@
+Ejercicio práctico:
+
+1. Clone este repositorio (todo su contenido) a un directorio local en el PC donde usted está ubicado.
+2. Cree un nuevo repositorio en GitHub con su cuenta de usuario (si no tiene una, creela ahora mismo por favor)
+3. Agregue a su repositorio un nuevo archivo de texto llamado "Python Programming Language", 
+   editelo con alguna respuesta del siguiente post: https://www.quora.com/How-did-Python-dominate-scientific-computing
+4. Cree un "branch" en su repositorio y en este agregue un nuevo archivo de texto llamado "El mejor IDE", 
+   editelo con alguna respuesta del siguiente post: https://www.quora.com/What-is-the-best-IDE-for-Python
+5. Copie el contenido del archivo code.py en el sitio https://jupyter.org/try , luego cree un archivo en el branch de su repositorio
+   que se llame pythonics.py, en este último agregue el código y el resultado de la ejecución.
+6. Fusione los cambios hechos en el branch con el contenido de la rama original del repositorio.
+7. Es posible que el repositorio original (el del profesor) haya cambiado, actualice su respositorio con los cambios.
